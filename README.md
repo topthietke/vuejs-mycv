@@ -1,1 +1,1 @@
-# vuejs-mycv
+import HomeView from './views/HomeView.vue'
